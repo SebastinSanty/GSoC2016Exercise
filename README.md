@@ -1,7 +1,10 @@
-# GSoC 2016 Exercise
+# Generic Protein Expression Viewer
 
 Protein Expression Viewer made to parse JSON data from neXtProt database (Courtesy: Swiss Institute for Bioinformatics (SIB)) 
 and visualize the data using D3JS, a javascript library for manipulating documents based on data.
+
+
+GSoC2016 Exercise
 
 * Note: Go through this considering to be tutorial. Get to know how a sample data is visualized using different methods to 
 gain more insights about using D3JS.
